@@ -1,0 +1,9 @@
+C:\Users\Alex Hung\source\repos\AzureDevOpsDemo\AzureDevOpsDemo\bin\Debug\AzureDevOpsDemo.exe.config
+C:\Users\Alex Hung\source\repos\AzureDevOpsDemo\AzureDevOpsDemo\bin\Debug\AzureDevOpsDemo.exe
+C:\Users\Alex Hung\source\repos\AzureDevOpsDemo\AzureDevOpsDemo\bin\Debug\AzureDevOpsDemo.pdb
+C:\Users\Alex Hung\source\repos\AzureDevOpsDemo\AzureDevOpsDemo\obj\Debug\AzureDevOpsDemo.csprojAssemblyReference.cache
+C:\Users\Alex Hung\source\repos\AzureDevOpsDemo\AzureDevOpsDemo\obj\Debug\AzureDevOpsDemo.Properties.Resources.resources
+C:\Users\Alex Hung\source\repos\AzureDevOpsDemo\AzureDevOpsDemo\obj\Debug\AzureDevOpsDemo.csproj.GenerateResource.cache
+C:\Users\Alex Hung\source\repos\AzureDevOpsDemo\AzureDevOpsDemo\obj\Debug\AzureDevOpsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Alex Hung\source\repos\AzureDevOpsDemo\AzureDevOpsDemo\obj\Debug\AzureDevOpsDemo.exe
+C:\Users\Alex Hung\source\repos\AzureDevOpsDemo\AzureDevOpsDemo\obj\Debug\AzureDevOpsDemo.pdb
